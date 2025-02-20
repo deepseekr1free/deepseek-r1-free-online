@@ -4,6 +4,7 @@
 ## What is DeepSeek R1 Free Online?  
 
 **DeepSeek R1** is a revolutionary AI-powered search engine designed to simplify complex data analysis, research, and information retrieval. Unlike traditional search tools, it leverages advanced algorithms and natural language processing (NLP) to deliver **fast, accurate, and context-aware results**. Best of all, it’s **completely free to use** at [https://deep.ch-at.pw](https://deep.ch-at.pw).  
+![1739646415830_22yz](https://github.com/user-attachments/assets/278b432d-26ec-414b-9fd1-8eda059054e5)
 
 ---
 
