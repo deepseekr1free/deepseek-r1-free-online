@@ -1,4 +1,4 @@
-**Title:** DeepSeek R1 Free Online: The Ultimate AI-Powered Search Tool for 2025/3/2
+**Title:** DeepSeek R1 Free Online: The Ultimate AI-Powered Search Tool for 2025/3/23
 ---
 
 ## What is DeepSeek R1 Free Online?  
